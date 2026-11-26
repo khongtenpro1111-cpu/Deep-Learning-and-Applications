@@ -1,0 +1,13 @@
+# Môi trường ảo & cache Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# File rác hệ thống Windows / Google Drive
+desktop.ini
+Thumbs.db
+
+# Dữ liệu tải về (rất nặng)
+data/
+*.tgz
