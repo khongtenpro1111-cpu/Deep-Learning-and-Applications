@@ -8,7 +8,7 @@
 
 ---
 
-## 1. Cấu trúc thư mục bài làm (`d:\Đặng Như Phú\Bailam`)
+## 1. Cấu trúc thư mục bài làm 
 
 - `TieuLuan_DeTai10_CNN_MobileNetV2_PhanLoaiHoa.docx`: Báo cáo Tiểu luận hoàn chỉnh theo đúng biểu mẫu và quy định trình bày của Khoa CNTT - Trường ĐH Nguyễn Tất Thành (>= 55 trang, đầy đủ trang bìa, tờ nhiệm vụ, phiếu chấm BM-ChT-11, 5 chương nội dung, 20 hình ảnh/biểu đồ thực nghiệm, 19 bảng biểu, phụ lục mã nguồn và danh mục tài liệu tham khảo xếp theo ABC).
 - `Notebook_PhanLoaiHoa_CNN_MobileNetV2.ipynb`: Jupyter Notebook **độc lập (Self-Contained, chạy trực tiếp trên cả Jupyter Local lẫn Google Colab không cần `src/`)**, gồm 21 cells đầy đủ mã nguồn chi tiết cả 5 quy trình, ô demo dự đoán ảnh hoa mới, phân tích Markdown và 18 biểu đồ kết quả thực thi.
